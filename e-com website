@@ -1,0 +1,13 @@
+ecommerce-app/
+├── client/         # React frontend
+│   └── src/
+│       ├── App.js
+│       └── pages/
+│           ├── Home.js
+│           ├── Cart.js
+│           ├── Checkout.js
+│           ├── Login.js
+│           └── Register.js
+├── server/         # Node.js backend
+│   └── index.js
+└── .env
